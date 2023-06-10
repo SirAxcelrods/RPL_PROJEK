@@ -1,25 +1,21 @@
 # RPL_PROJEK
 Rekayasa Perangkat Lunak IF - C
+<hr />
 
-Anggota : 
+Anggota : <br />
+Daniel Hasiando Sinaga (123210047)<br />
+Nanang Tri Handoyo (123210058)<br /><br />
 
-Daniel Hasiando Sinaga (123210047)
-
-Nanang Tri Handoyo (123210058)
-
-
-Link Deployment (Website) :\n
-
-http://gercepwsb.42web.io/
+ 
+Link Deployment (Website) :<br />
+http://gercepwsb.42web.io/ <br /><br />
 
 
-AKUN ADMIN (tidak bisa register)
+AKUN ADMIN (tidak bisa register)<br />
+email : budi@admin.com<br />
+pass : cek123 <br /><br />
 
-email : budi@admin.com
-pass : cek123
 
-
-AKUN USER/CUSTOMER (bisa register)
-
-email : ucup@mail.com
-pass : 123
+AKUN USER/CUSTOMER (bisa register) <br />
+email : ucup@mail.com <br />
+pass : 123 <br /><br />
