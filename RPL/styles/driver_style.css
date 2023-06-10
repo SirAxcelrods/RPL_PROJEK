@@ -1,0 +1,176 @@
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        /* background: #11a0c8; */
+    }
+
+    a {
+        text-decoration: none!important;
+        color: white;
+        font-size: 1.2rem;
+        padding: 10px 45px;
+    }
+
+    a:hover{
+        background-color: rgb(0, 0, 0);
+    }
+/*     
+    .container {
+        position: relative;
+        width: 100%;
+        height: 900px;
+    } */
+    
+    .logo {
+        position: absolute;
+        top: 55px;
+        left: 50px;
+        width: 200px;
+    }
+    
+    .header-box {
+        /* position: absolute;
+        top: 80px;
+        left: 960px; */
+        /* width: 420px;
+        height: 75px; */
+        border-radius: 200px;
+        /* background: #b1e6fb; */
+    }
+    
+    .navbar {
+        /* position: absolute;
+        top: 20px;
+        right: 20px;
+        display: flex; */
+        align-items: center;
+        gap: 10px;
+        font-size: 30px;
+        font-weight: 500;
+        color: rgba(0, 0, 0, 0.8);
+    }
+    
+    .navbar-item.active {
+        font-weight: 700;
+    }
+    
+    .about {
+        /* position: absolute;
+        top: 60px;
+        left: 315px;
+        width: 300px;
+        height: 75px; */
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        color: #000;
+    }
+    
+    .route-title {
+        /* position: absolute;
+        top: 110px;
+        left: 235px;
+        width: 575px;
+        height: 75px; */
+        font-size: 50px;
+        font-weight: 700;
+        font-style: italic;
+        color: #000;
+    }
+    
+    .detail {
+        /* position: absolute;
+        top: 290px;
+        left: 12px;
+        width: 307px;
+        height: 75px; */
+        font-size: 30px;
+        font-weight: 500;
+        text-align: center;
+        color: #000;
+    }
+    
+    .detail-item {
+        /* position: absolute;
+        top: 295px;
+        left: 200px;
+        width: 307px;
+        height: 75px; */
+        font-size: 25px;
+        font-weight: 500;
+        text-align: center;
+        color: #000;
+    }
+    
+    .map-info {
+        /* position: absolute;
+        top: 385px;
+        left: 174px;
+        width: 307px;
+        height: 75px; */
+        font-size: 25px;
+        font-weight: 500;
+        text-align: center;
+        color: #000;
+    }
+    
+    .map {
+        /* position: absolute;
+        top: 240px;
+        left: 990px;
+        width: 360px;
+        height: 530px; */
+        border-radius: 20px;
+        object-fit: none;
+    }
+    
+    .footer-line {
+        /* position: absolute;
+        top: 640px;
+        left: 95px;
+        width: 701px;
+        height: 7px; */
+        stroke: black;
+        stroke-width: 3;
+    }
+    
+    .avatar {
+        position: absolute;
+        top: 660px;
+        left: 110px;
+    }
+    
+    .driver-name {
+        /* position: absolute;
+        top: 680px;
+        left: 230px;
+        width: 480px;
+        height: 75px; */
+        font-size: 35px;
+        font-weight: 700;
+        text-align: center;
+        color: #000;
+    }
+    
+    .driver-info {
+        /* position: absolute;
+        top: 740px;
+        left: 140px;
+        width: 535px;
+        height: 75px; */
+        font-size: 20px;
+        font-weight: 500;
+        text-align: center;
+        color: #000;
+    }
+    
+    .btn-select {
+        /* position: absolute;
+        top: 725px;
+        left: 715px;
+        width: 130px;
+        height: 50px; */
+        border-radius: 200px;
+        background: #171f22;
+    }
